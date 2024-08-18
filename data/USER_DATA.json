@@ -1,0 +1,13 @@
+{"COLLECTIONS": [{
+    "Questions": [{
+        "Answers": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "questionName": "2 + 2",
+        "CorrectAnswer": 4
+    }],
+    "collectionName": "Maths"
+}]}
