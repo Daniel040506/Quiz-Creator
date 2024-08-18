@@ -25,13 +25,6 @@ As a user, I want to be able to:
 - Have the option to save my collection(s) to practice on them later, so I don't have to recreate practice material every time
 - Have to option to load my collection(s) to practice on them later
 
-# Instructions for Grader
-
-- You can generate the first required action related to adding Xs to a Y by... searching for any question in a collection
-- You can generate the second required action related to adding Xs to a Y by... removing a collection by typing its name and associated collection
-- You can locate my visual component by... clicking the visual component
-- You can save the state of my application by... clicking load data
-- You can reload the state of my application by... clicking save data
 
 # Phase 4: Task 2
 - Log Events:
